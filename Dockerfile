@@ -1,4 +1,4 @@
-FROM docker pull spmallick/opencv-docker:opencv
+FROM spmallick/opencv-docker:opencv
 
 ADD hello.cpp
 
