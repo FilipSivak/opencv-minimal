@@ -5,4 +5,4 @@ Based on https://www.learnopencv.com/install-opencv-docker-image-ubuntu-macos-wi
 ## Example
 The file [hello.cpp]("./hello.cpp") generates following image:   
 
-![Generated image](myimage.png|width=100px)
+<img src="https://raw.githubusercontent.com/FilipSivak/opencv-minimal/master/myimage.png" width="100">
